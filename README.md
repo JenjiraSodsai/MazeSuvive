@@ -1,0 +1,2 @@
+# MazeSuvive
+GitHub Pages
